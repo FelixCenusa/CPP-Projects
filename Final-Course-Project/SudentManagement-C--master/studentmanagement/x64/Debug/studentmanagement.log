@@ -1,0 +1,20 @@
+﻿  Klass.cpp
+  KlassHandler.cpp
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\KlassHandler.cpp(183,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\KlassHandler.cpp(222,11): warning C4101: 'allStudentsInHere': unreferenced local variable
+  KlassHandler.h
+  PeopleHandler.cpp
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\PeopleHandler.cpp(509,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Person.cpp
+  Staff.cpp
+  Student.cpp
+  Teacher.cpp
+  main.cpp
+  Generating Code...
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\PeopleHandler.cpp(627): warning C4715: 'PeopleHandler::getTeacherFromID': not all control paths return a value
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\PeopleHandler.cpp(637): warning C4715: 'PeopleHandler::getStudentFromID': not all control paths return a value
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\PeopleHandler.cpp(647): warning C4715: 'PeopleHandler::getStaffFromID': not all control paths return a value
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\PeopleHandler.cpp(617): warning C4715: 'PeopleHandler::handlePeople': not all control paths return a value
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\KlassHandler.cpp(200): warning C4715: 'KlassHandler::getTotalAgeInKlass': not all control paths return a value
+C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\studentmanagement\KlassHandler.cpp(188): warning C4715: 'KlassHandler::getAverageAgeInKlass': not all control paths return a value
+  studentmanagement.vcxproj -> C:\Users\MAC-KILLER-PRO\Desktop\FullyFinished\SudentManagement-C--master\x64\Debug\studentmanagement.exe
