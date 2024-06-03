@@ -1,0 +1,2 @@
+In this folder you can find 3 examinations that ive done as part of the CPP course in BTH.
+In these examinations we had 4-6 hours depending on which one to finish programming something specific. Instructions to the examination exist within the examination. Syntax, general knowledge and object oriented programming were tested. I passed all 3 exams and these are the solutions I made during the alloted exam time in the exam room.
