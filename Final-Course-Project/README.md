@@ -31,11 +31,7 @@
    - **Handler Classes:**
      - PeopleHandler manages dynamic memory.
 
-5. **Standard Library Data Structures:**
-   - **Usage of Vector:**
-     - Example: Vector used in the Match class.
-
-6. **File Operations:**
+5. **File Operations:**
    - **Reading and Writing to Text Files:**
      - PeopleHandler and ClassHandler can save and load all objects to/from files.
      - Implemented in two different ways.
